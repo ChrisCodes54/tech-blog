@@ -24,8 +24,6 @@ If you have any questions about the application contact me directly at Christang
 Christangarife95@gmail.com 
 # Username
 Check out my other work on [Github](https://github.com/ChrisCodes54)
-# Screenshots and Video Link to walkthrough
-Watch the walkthrough video by clicking [here](https://drive.google.com/file/d/1DUkvVvRpAsGBCb0EzkLfDUOIHaGM8TlB/view?usp=sharing)
-
-![Example of doing a category GET request](images/ecommerce.PNG)
+# Screenshots 
+![Example of a homepage with user generated posts](images/tech-blog-home.PNG)
 
